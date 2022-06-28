@@ -1,0 +1,25 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+.my-search-container.data-v-8ad86a50 {
+  padding: 15rpx 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  top: 0rpx;
+  z-index: 1;
+  width: 100%;
+}
+.my-search-container .my-serach-box.data-v-8ad86a50 {
+  width: 600rpx;
+  height: 50rpx;
+  background-color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.my-search-container .my-serach-box text.data-v-8ad86a50 {
+  margin-left: 10rpx;
+}
+
